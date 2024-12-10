@@ -2,6 +2,9 @@
 
 Este repositório contém os arquivos de um projeto de teste funcional automatizado de 4 casos de uso do aplicativo RWA realizados com a ferramenta CYPRESS. O contexto de sua realização é ser parte do treinamento para formação no curso de Qualidade( **QA - Quality Assurance** ) em Testes de Software ministrado pela escola [https://www.lumestack.com](https:/www.lumestack.com).
 
+![Report](https://github.com/user-attachments/assets/fbc0b103-87fc-433a-933e-c6ce4d3ace7c)
+
+
 Índice:
 - Introdução
 - Pré-requisitos
